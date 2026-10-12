@@ -1,0 +1,9 @@
+Mon Oct 12 18:58:06 2026
+WARNING: OpenGL error 0x502 in or before mjr_makeContext
+
+Mon Oct 12 18:58:37 2026
+WARNING: Nan, Inf or huge value in QACC at DOF 5. The simulation is unstable. Time = 30.7920.
+
+Mon Oct 12 18:59:54 2026
+WARNING: OpenGL error 0x502 in or before mjr_makeContext
+
